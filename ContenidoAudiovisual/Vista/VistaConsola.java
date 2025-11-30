@@ -1,3 +1,5 @@
+import java.util.List;
+
 public class VistaConsola {
     public void mostrarBienvenida() {
         System.out.println("=== Sistema de Contenidos Audiovisuales ===");
